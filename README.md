@@ -13,7 +13,7 @@
 - 🤖 AI/ML developer with hands-on experience in **Natural Language Processing**
 - 🧠 Currently working on **Large Language Models (LLMs), Agentic AI, and RAG systems**
 - 🔬 Exploring **Generative AI pipelines and intelligent agents**
-- 🤝 Open to collaborating on **GenAI, LLM, and AI system projects**
+  
 
   
 ---
